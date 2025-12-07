@@ -1,17 +1,4 @@
-<div align="center"> ╔══════════════════ ⋆★⋆ ══════════════════╗  </div>
-<h3 align="center"> <img src="https://cdn3.emoji.gg/emojis/1472-white-sparkle.gif" width="2%"> Hi!! <img src="https://cdn3.emoji.gg/emojis/1472-white-sparkle.gif" width="2%"> </h3>
-
 <div align="center">
-  <div>
-     <kbd>
-       <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; main: tiinaao  &nbsp; &nbsp;  &nbsp; &nbsp;
-       <br> <br>
-     </kbd>
-  <div>
-    <br>
+     <kbd><br>&nbsp; &nbsp; &nbsp; &nbsp; main: tiinaao &nbsp; &nbsp; &nbsp; &nbsp;<br><br></kbd>
+    <br><br><img src="mik.jpg" height="40%" width="14%">
 </div>
-<img src="https://file.garden/aGE2qANLWActgIGK/f2ef7e72a9a535475027132479427da6-ezgif.com-effects.gif" width="40%">
-<br>
-<br>   
-<div align="center"> ╚══════════════════ ⋆★⋆ ══════════════════╝ </div>
