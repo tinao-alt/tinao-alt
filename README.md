@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center"> ╔══════════════════ ⋆★⋆ ══════════════════╗  </div>
+<h3 align="center"> <img src="https://cdn3.emoji.gg/emojis/1472-white-sparkle.gif" width="2%"> Hi hi hello!! <img src="https://cdn3.emoji.gg/emojis/1472-white-sparkle.gif" width="2%"> </h3>
 
-<!--
-**tinao-alt/tinao-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <div>
+     <kbd>
+       <br>
+       &nbsp; &nbsp;  &nbsp; &nbsp; main: tiinaao  &nbsp; &nbsp;  &nbsp; &nbsp;
+       <br> <br>
+     </kbd>
+  <div>
+    <br>
+</div>
+<img src="https://file.garden/aGE2qANLWActgIGK/f2ef7e72a9a535475027132479427da6-ezgif.com-effects.gif" width="40%">
+<br>
+<br>   
+<div align="center"> ╚══════════════════ ⋆★⋆ ══════════════════╝ </div>
